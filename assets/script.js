@@ -34,3 +34,7 @@ if (nome == 'lu') {
 }else {
     console.log("mensagem normal")
 }
+
+function Avisar() {
+alert("Opa, disparei")
+}
