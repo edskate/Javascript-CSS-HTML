@@ -7,7 +7,7 @@ let logado = false // tipo boolean
 let ingredientes = ["arroz", "feijao", "macarrao", 'arroz']
 let carro = ['pejo', 'fusca', 'monza']
 let Make = ['po-compacto','Bluche', 'pincel', 'baton', 'corretivo']
-let nomes = ['julia','calral','antonio','luiz','bruna','carminha']
+let nomes = ['julia','calrol','antonio','luiz','bruna','carminha']
 let objetos = ['cadeira','sofa','garrafa','prato','panela','lapis','caderno','mochila']
 
 
