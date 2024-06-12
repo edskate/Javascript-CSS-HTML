@@ -14,7 +14,7 @@ let objetos = ['cadeira','sofa','garrafa','prato','panela','lapis','caderno','mo
 
 
 
-
+//array e objetos
 console.log(ingredientes[3]);
 console.log(carro[0])
 console.log(Make[2])
